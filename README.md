@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm a theoretical chemist and aspiring scientific software developer.
+
+- 🔭 I’m currently working on [the eT program](https://www.etprogram.org)
+- 🌱 I’m currently learning to use Docker
 
 <!--
 **saraidery/saraidery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
