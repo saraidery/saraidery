@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hi!
 
 I'm a theoretical chemist and aspiring scientific software developer.
 
