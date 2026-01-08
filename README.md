@@ -1,6 +1,3 @@
-### Hi!
-
-I'm a theoretical chemist and aspiring scientific software developer.
 
 <!--
 **saraidery/saraidery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
